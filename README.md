@@ -4,7 +4,7 @@ Machine Learning / AI intermediate Capstone projects (ReDI School-Spring 2025 )
 
 Welcome to our class repository — a collection of awesome AI projects built by students of the ReDI School!
 
-This space brings together diverse voices and ideas through hands-on projects in **Machine Learning**, **Natural Language Processing**, **Computer Vision**, and **Ethical AI**.
+This space brings together diverse voices and ideas through hands-on projects in **Machine Learning**.
 
 ---
 
@@ -20,10 +20,10 @@ This repo serves as a central hub to:
 
 ## 📚 Projects
 
-| Group Name | Project Title | Description | Links |
-|------------|----------------|-------------|-------|
+| Group Name     | Project Title                                           
+|------------    |---------------------------------------------------------------------|
 
-
+CodeClusters     Behind the Swipe: Understanding Credit Card Users Behavior
 ---
 
 ## 🛠 Tools We Used
@@ -31,16 +31,15 @@ This repo serves as a central hub to:
 - 💻 GitHub
 - 📊 Jupyter Notebooks
 - ☁️ Microsoft Azure
-- 🧠 scikit-learn, TensorFlow, OpenCV
+- 🧠 scikit-learn, TensorFlow, 
 
 ---
 
 ## ✅ Skills Demonstrated
 
 - Machine Learning fundamentals
-- Natural Language Processing
-- Computer Vision
-- Ethical AI considerations
+- Supervised Learning
+- Unsupervised learning
 - Version control and collaboration on GitHub
 
 
