@@ -28,10 +28,10 @@ This repo serves as a central hub to:
 
 ## 🛠 Tools We Used
 
-- 💻 GitHub
-- 📊 Jupyter Notebooks
-- ☁️ Microsoft Azure
-- 🧠 scikit-learn, TensorFlow, 
+-  GitHub
+-  Jupyter Notebooks
+-  Microsoft Azure
+-  scikit-learn, TensorFlow
 
 ---
 
