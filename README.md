@@ -20,10 +20,10 @@ This repo serves as a central hub to:
 
 ## 📚 Projects
 
-| Group Name     |                   Project Title                                           
-|------------    |---------------------------------------------------------------------|
+| **Group Name** | **Project Title**                                  |
+|----------------|----------------------------------------------------|
+| CodeClusters   | Behind the Swipe: Understanding Credit Card Users Behavior |
 
-CodeClusters     Behind the Swipe: Understanding Credit Card Users Behavior
 ---
 
 ## 🛠 Tools We Used
