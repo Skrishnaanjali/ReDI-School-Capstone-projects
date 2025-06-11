@@ -35,6 +35,12 @@ This repo serves as a central hub to:
 -  Jupyter Notebooks
 -  Microsoft Azure
 -  scikit-learn, TensorFlow
+-  Joblib
+-  Streamlit	Web app interface
+-  Hugging Face
+
+
+
 
 ---
 
