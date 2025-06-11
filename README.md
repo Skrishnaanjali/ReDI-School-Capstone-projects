@@ -20,9 +20,12 @@ This repo serves as a central hub to:
 
 ## 📚 Projects
 
-| **Group Name** | **Project Title**                                  |
-|----------------|----------------------------------------------------|
-| CodeClusters   | Behind the Swipe: Understanding Credit Card Users Behavior |
+| **Group Name** | **Project Title**                                                |
+|----------------|------------------------------------------------------------------|
+| CodeClusters   | Behind the Swipe: Understanding Credit Card Users Behavior     |
+| Fit4A          | Car price predictor using linear regression and Randon forest  |
+
+
 
 ---
 
