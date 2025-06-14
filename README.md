@@ -23,7 +23,7 @@ This repo serves as a central hub to:
 | **Group Name** | **Project Title**                                                |
 |----------------|------------------------------------------------------------------|
 | CodeClusters   | Behind the Swipe: Understanding Credit Card Users Behavior     |
-| Fit4AI         | Car price predictor using linear regression and Randon forest  |
+| Fit4AI         | Car price predictor using linear regression and Random forest  |
 
 
 
